@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mahdimzh/mahdimzh.github.io/static/css/main.bab0b925.chunk.css",
+    "main.js": "/mahdimzh/mahdimzh.github.io/static/js/main.8dfa2644.chunk.js",
+    "main.js.map": "/mahdimzh/mahdimzh.github.io/static/js/main.8dfa2644.chunk.js.map",
+    "runtime-main.js": "/mahdimzh/mahdimzh.github.io/static/js/runtime-main.b3530b63.js",
+    "runtime-main.js.map": "/mahdimzh/mahdimzh.github.io/static/js/runtime-main.b3530b63.js.map",
+    "static/js/2.5eb81f38.chunk.js": "/mahdimzh/mahdimzh.github.io/static/js/2.5eb81f38.chunk.js",
+    "static/js/2.5eb81f38.chunk.js.map": "/mahdimzh/mahdimzh.github.io/static/js/2.5eb81f38.chunk.js.map",
+    "index.html": "/mahdimzh/mahdimzh.github.io/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/mahdimzh/mahdimzh.github.io/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.5eb81f38.chunk.js.LICENSE.txt": "/mahdimzh/mahdimzh.github.io/static/js/2.5eb81f38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3530b63.js",
+    "static/js/2.5eb81f38.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.8dfa2644.chunk.js"
+  ]
+}

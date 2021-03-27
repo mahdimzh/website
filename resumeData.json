@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Mahdi",
+    "lastname":"Mohammadizadeh",
+    "description":"I'm a senior software developer and researcher",
+    "image":"profilepic.jpg",
+    "bio":"I am experienced software engineer with a demonstrated history of working . Skilled in Java, PHP, Javascript and its framework include Laravel, React, Extjs, ... and also skilled in SQL, NoSQL, linux and C++.",
+    "contactmessage":"You can see various information about me here.",
+    "email": "ma.mohammadizadeh@gmail.com",
+    "phone": "+98-936-455-7770",
+    "github":"https://github.com/mahdimzh",
+    "project":"https://github.com/mahdimzh",
+    "address":{
+      "street":"",
+      "country":"Iran",
+      "city":"Tehran",
+      "state":"",
+      "zip": ""
+    },
+    "website": "https://mahdimzh.github.io/contact.html",
+    "resumedownload":"https://github.com/mahdimzh/CV/blob/master/CV.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/mahdimzh",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mahdi-mohammadizadeh",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mahdimzh",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can see a short list of my skills",
+    "education":[
+      {
+        "school":"Shahid Beheshti University",
+        "degree":"Master of Computer Science and Engineering",
+        "graduated":"Sep, 2015 -- Sep, 2018",
+        "description":""
+      },
+      {
+        "school":"Shahid Beheshti University",
+        "degree":"Bachelor of Computer Science and Engineering",
+        "graduated":"Sep, 2011 -- Sep, 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Saean Ertebat",
+        "title":"Senior Software Engineer and Researcher ",
+        "years":"March 2017 - Present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"PHP (Laravel0",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Elasticsearch",
+        "level":"80%"
+      },
+      {
+        "name":"GIT",
+        "level":"90%"
+      },
+      {
+        "name":"DATABASES (MYSQL, MONGODB)",
+        "level":"90%"
+      },
+      {
+        "name":"OS (UBUNTU, CENTO OS, MAC)",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"User Interface For Contact Center",
+        "category":"Implement new user interface using react js",
+        "image":"01.jpg",
+        "url":"http://www.senatelecom.com"
+      }
+    ]
+  }
+}
